@@ -1,8 +1,8 @@
-<h1 align="left">Heeeey  💖 How u ended up here?</h1>
+<h1 align="left">Heeeey</h1>
 
 ###
 
-<p align="left">Sofie from Denmark here 🙋🏽‍♀️</p>
+<p align="left">I'm Sofie and from Denmark 🙋🏽‍♀️</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">I'm Sofie, a 26-year-old tech enthusiast from the magical city of Copenhagen, Denmark! 🇩🇰 Currently, I'm diving into the world of computer science at KEA in Nørrebro. 🏫<br><br>This summer marks the end of my third semester, and I'm super excited to be just two semesters away from graduation! My fifth semester is all about getting hands-on with an internship, and I'm on the lookout for fabulous opportunities. 💖<br><br>When I'm not coding up a storm, you can find me wandering the streets of Copenhagen, enjoying a delicious coffee and BMO, or planning my next dreamy getaway. 🌸✨<br><br>Take a peek at my school projects here, and if you're searching for a passionate intern  or a student Assistent then hit me up on LinkedIn. Let's connect and let me learn all your skills! 💻💕</p>
+<p align="left">I'm Sofie, a 26-year-old tech enthusiast from the magical city of Copenhagen, Denmark! 🇩🇰 Currently, I'm diving into the world of computer science at KEA in Nørrebro. 🏫<br><br>Take a peek at my school projects here!💻�</p>
 
 ###
 
