@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">I'm Sofie, a 27-year-old tech enthusiast from the magical city of Copenhagen, Denmark! 🇩🇰 Currently, I'm diving into the world of computer science at KEA in Nørrebro. 🏫<br><br>Take a peek at my school projects here!💻�</p>
+<p align="left">I'm Sofie, a 27-year-old tech enthusiast from the magical city of Copenhagen, Denmark! 🇩🇰 Currently, I'm diving into the world of computer science at KEA in Nørrebro. 🏫<br><br>Take a peek at my school projects here!💻</p>
 
 ###
 
